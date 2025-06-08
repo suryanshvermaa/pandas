@@ -1,7 +1,7 @@
 id,name,age,email,join_date,country,purchase_amount,is_active
 1,Grace,35.0,user1@example.com,2020-01-05,Australia,708.12,False
 2,David,43.0,user2@example.com,2020-01-12,USA,761.69,False
-1,Eva,61.0,user3@example.com,2020-01-19,Canada,288.16,True
+3,Eva,61.0,user3@example.com,2020-01-19,Canada,288.16,True
 4,Grace,51.0,user4@example.com,2020-01-26,Australia,,True
 5,Charlie,27.0,user5@example.com,2020-02-02,Germany,726.21,True
 6,Hannah,,user6@example.com,2020-02-09,Germany,305.7,False
